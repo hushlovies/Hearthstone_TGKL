@@ -1,4 +1,4 @@
-# Heartstone_TGKL
+# Hearthstone_TGKL
 
 ### Equipe de Kaira, Gabrielle, Tania et Lylia
 
